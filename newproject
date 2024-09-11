@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jai Mata Dee Construction</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>
+            <span>WELCOME</span><br>
+            <span>TO</span><br>
+            <span>JAI MATA DEE CONSTRUCTION</span>
+        </h1>
+        <p>Owner: Mr. Sanjay Kumar Singh</p>
+        <p>Email: <a href="mailto:Rnc.sanjaysingh001@gmail.com">Rnc.sanjaysingh001@gmail.com</a></p>
+        <p>Co-Owner: Mr. Akash Singh</p>
+    </header>
+    
+    <section id="intro">
+        <img src="https://assets.onecompiler.app/42rpngju4/42rpv9vqm/akash%20photo.jpg" alt="Company Photo">
+        <p>This is a construction company in Jharkhand, India.</p>
+    </section>
+    
+    <section id="photos">
+        <h2>Our Projects</h2>
+        <div class="photo-gallery">
+            <img src="https://assets.onecompiler.app/42rpngju4/42rpk28x2/photo%202.jpg" alt="Project Photo 1">
+            <img src="https://assets.onecompiler.app/42rpngju4/42rvk3656/kal.jpeg" alt="Project Photo 2">
+            <img src="https://assets.onecompiler.app/42rpngju4/42rpv9vqm/nice%202.jpg" alt="Project Photo 3">
+            <img src="https://assets.onecompiler.app/42rpngju4/42rpk28x2/photo%203.jpg" alt="Project Photo 4">
+            <img src="https://assets.onecompiler.app/42rpngju4/42rpk28x2/photo1.jpg" alt="Project Photo 5">
+        </div>
+    </section>
+</body>
+</html>
