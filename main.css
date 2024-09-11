@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://assets.onecompiler.app/42rpngju4/42rpk28x2/photo1.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin: 0;
+    line-height: 1.2;
+}
+
+header h1 span {
+    display: block;
+}
+
+header p {
+    font-size: 1.2em;
+    margin: 5px 0;
+}
+
+header a {
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+#intro {
+    text-align: center;
+    padding: 20px;
+}
+
+#intro p {
+    font-size: 1.5em; /* Larger font size for the introduction paragraph */
+    color: #ff4500; /* Bright color for the introduction paragraph */
+}
+
+#intro img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+#photos {
+    text-align: center;
+    padding: 20px;
+}
+
+#photos h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.photo-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.photo-gallery img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 10px;
+    border-radius: 8px;
+}
